@@ -1,0 +1,29 @@
+3
+1
+Banh keo
+Huy Hoang
+2
+Do an
+Viet Hoang
+3
+Do uong
+Hoang
+3
+123
+1
+mua
+15
+18/4/2003
+10
+124
+2
+mua
+12
+20/5/2007
+15
+125
+3
+mua
+12
+15/4/2003
+8
